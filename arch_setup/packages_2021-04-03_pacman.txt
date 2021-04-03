@@ -452,6 +452,7 @@ poppler-data
 poppler-glib
 poppler-qt5
 portsmf
+postman-bin
 powerdevil
 ppp
 prison
