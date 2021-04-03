@@ -1,0 +1,7 @@
+grunt
+jshint
+netlify-cli
+node-gyp
+npm
+semver
+sfdx

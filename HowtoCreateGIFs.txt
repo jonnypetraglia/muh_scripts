@@ -1,0 +1,2 @@
+mplayer -ss START -endpos END -vo png FILE.FLV 
+convert -delay 5 {1..100}.png OUTPUT.GIF
