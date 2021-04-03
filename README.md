@@ -2,7 +2,7 @@
 
 Scripts for my own personal Linux systems.
 
-Some are bash (ugh) and some are fish; the fish ones probably require some functions from my [fish_scripts](https://github.com/jonnypetraglia/fish_scripts) repo.
+Some are bash (ugh) and some are [fish](https://fishshell.com/); the fish ones probably require some functions from my [fish_scripts](https://github.com/jonnypetraglia/fish_scripts) repo.
 
 
 ## Arch Setup
