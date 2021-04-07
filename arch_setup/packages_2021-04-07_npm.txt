@@ -1,7 +1,8 @@
+eslint
 grunt
 jshint
 netlify-cli
 node-gyp
 npm
 semver
-sfdx
+sfdx-cli

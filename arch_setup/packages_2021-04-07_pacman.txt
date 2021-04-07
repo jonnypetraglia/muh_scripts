@@ -39,6 +39,7 @@ breeze-gtk
 breeze-icons
 brotli
 btrfs-progs
+bwidget
 cairo
 cantarell-fonts
 cdparanoia
@@ -94,6 +95,7 @@ git
 glib-networking
 glslang
 glu
+gnome-keyring
 go
 google-chrome
 gptfdisk
@@ -135,6 +137,7 @@ kaccounts-integration
 kactivities
 kactivities-stats
 kactivitymanagerd
+kamoso
 karchive
 kauth
 kbookmarks
@@ -425,6 +428,7 @@ p7zip
 pango
 parted
 patch
+pavucontrol
 phonon-qt5
 phonon-qt5-vlc
 pipewire
@@ -458,6 +462,7 @@ ppp
 prison
 progsreiserfs
 pulseaudio
+pulseaudio-bluetooth
 purpose
 python
 python-dnspython
@@ -541,6 +546,7 @@ taglib
 talloc
 tbb
 tcl
+tcllib
 tdb
 teams
 teamviewer
