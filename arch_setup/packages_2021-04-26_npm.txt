@@ -1,0 +1,10 @@
+eslint
+grunt
+jshint
+netlify-cli
+node-gyp
+npm
+semver
+sfdx-cli
+typescript
+yarn
