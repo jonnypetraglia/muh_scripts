@@ -6,5 +6,6 @@ node-gyp
 npm
 semver
 sfdx-cli
+tslint
 typescript
 yarn

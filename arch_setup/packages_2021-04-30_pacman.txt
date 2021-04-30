@@ -22,6 +22,7 @@ audacity
 autoconf
 automake
 avahi
+awesome-terminal-fonts
 babl
 baloo
 baloo-widgets
@@ -73,6 +74,7 @@ ffmpeg
 figlet
 firefox
 fish
+fisher
 flac
 flex
 fontconfig
@@ -404,6 +406,7 @@ minizip
 mobile-broadband-provider-info
 modemmanager
 modemmanager-qt
+monodevelop-bin
 mtdev
 mypaint-brushes1
 ndctl
@@ -465,6 +468,7 @@ poppler-qt5
 portsmf
 postman-bin
 powerdevil
+powerline-fonts
 ppp
 prison
 progsreiserfs
