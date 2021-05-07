@@ -70,6 +70,7 @@ editorconfig-core-c
 exiv2
 faad2
 fakeroot
+falkon
 ffmpeg
 figlet
 firefox
@@ -538,6 +539,7 @@ signon-plugin-oauth2
 signon-ui
 signond
 slang
+smartgit
 smartmontools
 smbclient
 snappy

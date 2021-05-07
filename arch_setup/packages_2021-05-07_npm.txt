@@ -1,6 +1,9 @@
+bunyan
+dev-config
 eslint
 grunt
 jshint
+mocha
 netlify-cli
 node-gyp
 npm
