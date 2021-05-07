@@ -1,0 +1,3 @@
+mo-dx-plugin
+sfdx-git-delta
+texei-sfdx-plugin

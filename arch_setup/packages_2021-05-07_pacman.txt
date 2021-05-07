@@ -136,6 +136,7 @@ jansson
 jasper
 jbig2dec
 jdk11-openjdk
+jq
 jre11-openjdk
 js78
 json-glib
