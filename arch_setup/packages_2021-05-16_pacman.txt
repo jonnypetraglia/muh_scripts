@@ -8,6 +8,7 @@ alsa-card-profiles
 alsa-lib
 alsa-topology-conf
 alsa-ucm-conf
+android-studio
 android-tools
 aom
 appstream
@@ -65,6 +66,8 @@ dolphin
 dosfstools
 double-conversion
 drkonqi
+duf
+dupeguru
 ebook-tools
 editorconfig-core-c
 exiv2
@@ -73,6 +76,7 @@ fakeroot
 falkon
 ffmpeg
 figlet
+findimagedupes
 firefox
 fish
 fisher
@@ -125,17 +129,20 @@ harfbuzz
 hdparm
 hicolor-icon-theme
 hidapi
+hiri
 http-parser
 hunspell
 hyphen
 ijs
 imlib2
+ion-git
 iso-codes
 jack
 jansson
 jasper
 jbig2dec
 jdk11-openjdk
+jobber
 jq
 jre11-openjdk
 js78
@@ -171,6 +178,7 @@ kdsoap
 kdsoap-ws-discovery-client
 kemoticons
 kfilemetadata
+kfind
 kgamma5
 kglobalaccel
 kguiaddons
@@ -179,6 +187,7 @@ khotkeys
 ki18n
 kiconthemes
 kidletime
+kindd
 kinfocenter
 kinit
 kio
@@ -397,6 +406,7 @@ m4
 mailcap
 make
 man-db
+mattermost-desktop-bin
 mbedtls
 md4c
 mdadm
@@ -433,12 +443,14 @@ openexr
 openjpeg2
 openssh
 opus
+orbterm-git
 orc
 os-prober
 oxygen
 p7zip
 pango
 parted
+partitionmanager
 patch
 pavucontrol
 phonon-qt5
@@ -512,6 +524,7 @@ qt5-webchannel
 qt5-webengine
 qt5-webkit
 qt5-x11extras
+qtav
 qtcreator
 rav1e
 re2
@@ -563,6 +576,7 @@ suil
 suitesparse
 svt-av1
 syncthing
+syncthingtray-qt6
 syntax-highlighting
 sysfsutils
 systemsettings
@@ -592,6 +606,7 @@ ttf-opensans
 twolame
 typescript
 udisks2
+unetbootin
 upower
 usbmuxd
 usbutils
@@ -610,6 +625,7 @@ wayland-protocols
 webrtc-audio-processing
 wget
 which
+wine
 woff2
 wpa_supplicant
 wps-office
@@ -689,6 +705,7 @@ xvidcore
 xxhash
 yakuake
 yay
+youtube-dl
 zeromq
 zimg
 zip
