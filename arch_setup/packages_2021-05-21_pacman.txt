@@ -425,6 +425,8 @@ ndctl
 netpbm
 networkmanager
 networkmanager-qt
+nikto
+nmap
 node-gyp
 nodejs
 noto-fonts
