@@ -594,6 +594,8 @@ telegram-desktop
 testdisk
 tevent
 texinfo
+texlive-latexextra
+texstudio
 the_silver_searcher
 thin-provisioning-tools
 threadweaver
@@ -604,6 +606,8 @@ tslib
 ttf-dejavu
 ttf-font-awesome
 ttf-hack
+ttf-nunito
+ttf-nunito-sans
 ttf-opensans
 twolame
 typescript
@@ -713,3 +717,4 @@ zimg
 zip
 zita-alsa-pcmi
 zita-resampler
+zoom
