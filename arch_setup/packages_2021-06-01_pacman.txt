@@ -437,6 +437,7 @@ nss
 ntfs-3g
 nvidia
 nvidia-settings
+nvm
 nvme-cli
 obs-studio
 openal

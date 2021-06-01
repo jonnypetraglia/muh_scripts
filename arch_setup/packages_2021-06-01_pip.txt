@@ -36,6 +36,7 @@ lutris
 lxml
 Markdown
 MarkupSafe
+more-itertools
 msgpack
 multidict
 numpy
