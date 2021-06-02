@@ -31,6 +31,7 @@ base
 binutils
 bison
 blas
+blueberry
 bluedevil
 blueman
 bluez
@@ -504,7 +505,7 @@ python-pyqt5-networkauth
 python-pyqt5-purchasing
 python-pyqt5-webengine
 qbittorrent
-qca
+qca-qt5
 qdirstat
 qgit
 qqc2-desktop-style

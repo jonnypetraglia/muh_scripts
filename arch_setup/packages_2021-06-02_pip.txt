@@ -75,6 +75,7 @@ requests-unixsocket
 resolvelib
 retrying
 Send2Trash
+setproctitle
 setuptools
 six
 snowballstemmer
