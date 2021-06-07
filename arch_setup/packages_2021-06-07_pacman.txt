@@ -121,6 +121,7 @@ gsm
 gst-plugins-base
 gst-plugins-base-libs
 gstreamer
+gtk-sharp-3-mono-git
 gtk-update-icon-cache
 gtk2
 gtk3
@@ -419,6 +420,7 @@ minizip
 mobile-broadband-provider-info
 modemmanager
 modemmanager-qt
+mono-msbuild
 monodevelop-bin
 mtdev
 mypaint-brushes1
