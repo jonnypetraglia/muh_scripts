@@ -204,6 +204,7 @@ knotifications
 knotifyconfig
 kompare
 konsole
+konversation
 kpackage
 kparts
 kpeople
@@ -454,6 +455,7 @@ orc
 os-prober
 oxygen
 p7zip
+pacman-contrib
 pango
 parted
 partitionmanager
