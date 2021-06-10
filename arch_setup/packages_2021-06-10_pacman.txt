@@ -612,6 +612,7 @@ tslib
 ttf-dejavu
 ttf-font-awesome
 ttf-hack
+ttf-ms-fonts
 ttf-nunito
 ttf-nunito-sans
 ttf-opensans
