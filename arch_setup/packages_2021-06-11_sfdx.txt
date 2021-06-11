@@ -1,3 +1,5 @@
 mo-dx-plugin
 sfdx-git-delta
 texei-sfdx-plugin
+sfdx-dependency-plugin
+shane-sfdx-plugins
