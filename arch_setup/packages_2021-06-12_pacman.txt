@@ -396,6 +396,7 @@ lightdm
 lilv
 linux
 linux-firmware
+linux-headers
 llvm-libs
 lm_sensors
 lmdb
@@ -444,6 +445,7 @@ nvidia-settings
 nvm
 nvme-cli
 obs-studio
+obs-v4l2sink
 openal
 opencore-amr
 openexr
@@ -635,6 +637,7 @@ volume_key
 vulkan-icd-loader
 wayland
 wayland-protocols
+webcamoid
 webrtc-audio-processing
 wget
 which
