@@ -103,6 +103,7 @@ giblib
 giflib
 gimp
 git
+gitahead-bin
 glib-networking
 glslang
 glu
