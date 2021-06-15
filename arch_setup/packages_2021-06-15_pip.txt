@@ -23,6 +23,7 @@ dnspython
 docutils
 DupliSeek
 evdev
+git-cola
 hsaudiotag3k
 html5lib
 idna
