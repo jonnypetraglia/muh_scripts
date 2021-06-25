@@ -541,6 +541,7 @@ qtcreator
 rav1e
 re2
 reflector
+remmina
 rest
 rsync
 rtkit
