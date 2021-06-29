@@ -32,6 +32,7 @@ imagesize
 imutils
 Jinja2
 lensfun
+libtorrent
 louis
 lutris
 lxml
@@ -66,7 +67,6 @@ PyQtDataVisualization
 PyQtNetworkAuth
 PyQtPurchasing
 PyQtWebEngine
-python-libtorrent
 pytz
 PyYAML
 QtPy

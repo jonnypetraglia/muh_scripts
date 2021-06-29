@@ -13,6 +13,7 @@ android-tools
 aom
 appstream
 appstream-qt
+arch-install-scripts
 archlinux-appstream-data
 ark
 at-spi2-atk
@@ -254,7 +255,6 @@ libbluray
 libbsd
 libbytesize
 libcanberra
-libcanberra-pulse
 libcloudproviders
 libcups
 libcurl-gnutls

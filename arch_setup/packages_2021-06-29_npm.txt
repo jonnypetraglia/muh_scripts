@@ -1,3 +1,4 @@
+asar
 bunyan
 dev-config
 eslint
@@ -6,6 +7,7 @@ jshint
 mocha
 netlify-cli
 node-gyp
+nopt
 npm
 semver
 sfdx-cli

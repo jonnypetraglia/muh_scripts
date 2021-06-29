@@ -1,6 +1,7 @@
 systemctl enable sddm.service
 systemctl enable sshd.service
 systemctl enable bluetooth.service
+systemctl enable reflector.service
 
 
 ## TODO: echo to /etc/pulse/system.pa
