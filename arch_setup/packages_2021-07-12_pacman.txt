@@ -426,6 +426,7 @@ modemmanager
 modemmanager-qt
 mono-msbuild
 monodevelop-bin
+mplayer
 mtdev
 mypaint-brushes1
 ndctl
