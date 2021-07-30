@@ -51,6 +51,7 @@ cantarell-fonts
 cdparanoia
 cfitsio
 cifs-utils
+cinnamon
 colord
 convertlit
 dav1d
@@ -98,6 +99,7 @@ gdb
 gdb-common
 gdk-pixbuf2
 gegl
+gendesk
 ghostscript
 ghostwriter
 giblib
@@ -142,7 +144,7 @@ ijs
 imlib2
 ion-git
 iso-codes
-jack
+jack2
 jansson
 jasper
 jbig2dec
@@ -182,6 +184,7 @@ kdnssd
 kdsoap
 kdsoap-ws-discovery-client
 kemoticons
+kfilebox-qt5-git
 kfilemetadata
 kfind
 kgamma5
@@ -395,6 +398,8 @@ libyaml
 libyuv
 libzip
 lightdm
+lightdm-gtk-greeter
+lightdm-slick-greeter
 lilv
 linux
 linux-firmware
