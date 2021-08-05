@@ -52,6 +52,7 @@ cdparanoia
 cfitsio
 cifs-utils
 cinnamon
+code-server
 colord
 convertlit
 dav1d
