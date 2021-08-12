@@ -144,6 +144,7 @@ hunspell
 hyphen
 ijs
 imlib2
+insync
 ion-git
 iso-codes
 jack2
