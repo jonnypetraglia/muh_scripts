@@ -71,6 +71,7 @@ dosfstools
 dotfonts-git
 double-conversion
 drkonqi
+dua-cli
 duf
 dupeguru
 dupliseek-git

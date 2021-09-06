@@ -6,6 +6,7 @@ appdirs
 asgiref
 async-timeout
 attrs
+Automat
 Babel
 Beaker
 beautifulsoup4
@@ -15,6 +16,7 @@ CacheControl
 cffi
 chardet
 colorama
+constantly
 contextlib2
 cryptography
 distlib
@@ -27,10 +29,12 @@ evdev
 git-cola
 hsaudiotag3k
 html5lib
+hyperlink
 idna
 image
 imagesize
 imutils
+incremental
 Jinja2
 lensfun
 libtorrent
@@ -101,8 +105,10 @@ team
 tinycss2
 toml
 tomli
+Twisted
 typing-extensions
 urllib3
 webencodings
 yarl
 youtube-dl
+zope.interface
