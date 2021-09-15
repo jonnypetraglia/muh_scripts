@@ -154,6 +154,7 @@ jasper
 jbig2dec
 jdk11-openjdk
 jobber
+jp2a
 jq
 jre11-openjdk
 js78
