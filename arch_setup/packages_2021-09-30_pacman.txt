@@ -554,6 +554,7 @@ qtav
 qtcreator
 rav1e
 re2
+redshift-qt-git
 reflector
 remmina
 rest
