@@ -568,6 +568,7 @@ run-parts
 sbc
 screen
 scrot
+sd
 sddm
 sddm-kcm
 sdl2
