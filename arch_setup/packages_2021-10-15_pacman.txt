@@ -144,7 +144,6 @@ hunspell
 hyphen
 ijs
 imlib2
-insync
 ion-git
 iso-codes
 jack2
@@ -459,6 +458,7 @@ nvm
 nvme-cli
 obs-studio
 obs-v4l2sink
+onedriver
 openal
 opencore-amr
 openexr
