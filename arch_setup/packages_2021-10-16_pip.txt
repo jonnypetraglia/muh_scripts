@@ -44,6 +44,7 @@ lxml
 Mako
 Markdown
 MarkupSafe
+meld
 more-itertools
 msgpack
 multidict

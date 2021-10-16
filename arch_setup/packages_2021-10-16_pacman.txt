@@ -425,6 +425,7 @@ mbedtls
 md4c
 mdadm
 media-player-info
+meld
 mesa
 metis
 milou
