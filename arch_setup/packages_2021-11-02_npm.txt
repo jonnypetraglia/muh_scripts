@@ -1,5 +1,6 @@
 asar
 bunyan
+cli
 dev-config
 eslint
 grunt
