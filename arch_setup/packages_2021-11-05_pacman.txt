@@ -29,6 +29,7 @@ babl
 baloo
 baloo-widgets
 base
+bat
 binutils
 bison
 blas
@@ -130,10 +131,12 @@ dupeguru
 dupliseek-git
 ebook-tools
 editorconfig-core-c
+exa
 exiv2
 faad2
 fakeroot
 falkon
+fd
 ffmpeg
 figlet
 firefox
@@ -565,6 +568,7 @@ powerdevil
 powerline-fonts
 ppp
 prison
+procs
 progsreiserfs
 pulseaudio
 pulseaudio-bluetooth
