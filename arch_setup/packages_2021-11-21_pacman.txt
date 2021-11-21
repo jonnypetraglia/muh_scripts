@@ -707,6 +707,7 @@ twolame
 typescript
 udisks2
 unetbootin
+unison-gtk-2.48.4
 upower
 usbmuxd
 usbutils
