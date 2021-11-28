@@ -129,6 +129,7 @@ dua-cli
 duf
 dupeguru
 dupliseek-git
+dust
 ebook-tools
 editorconfig-core-c
 exa
