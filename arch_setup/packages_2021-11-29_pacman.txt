@@ -46,6 +46,7 @@ breeze-gtk
 breeze-icons
 brotli
 btrfs-progs
+budgie-desktop
 bwidget
 cairo
 cantarell-fonts
@@ -192,6 +193,7 @@ gtk-update-icon-cache
 gtk2
 gtk3
 gts
+guake
 gwenview
 harfbuzz
 hdparm
@@ -246,6 +248,7 @@ kdnssd
 kdsoap
 kdsoap-ws-discovery-client
 kemoticons
+keychain
 kfilebox-qt5-git
 kfilemetadata
 kfind
@@ -807,7 +810,6 @@ xorg-xwud
 xorgproto
 xvidcore
 xxhash
-yakuake
 yay
 youtube-dl
 zeromq
