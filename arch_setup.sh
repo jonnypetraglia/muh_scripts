@@ -16,9 +16,9 @@ mkswap /dev/$MY_SWAP_PARTITION
 mount /dev/$MY_ROOT_PARTITION /mnt
 swapon /dev/$MY_SWAP_PARTITION
 ## 4. Generate fstab
-genfstab -U /mnt >> /mnt/etc/fstab
+genfstab -U /mnt > /mnt/etc/fstab
 ## 5. chroot
-chroot /mnt
+arch-chroot /mnt
 
 
 ## Run all the scripts!
