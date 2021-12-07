@@ -170,10 +170,12 @@ gimp
 git
 git-cola
 gitahead-bin
+gitfiend
 glib-networking
 glslang
 glu
 gnome-keyring
+gnome-tweaks
 go
 google-chrome
 gptfdisk
