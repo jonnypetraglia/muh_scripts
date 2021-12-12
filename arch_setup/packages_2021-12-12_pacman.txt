@@ -15,6 +15,7 @@ appstream
 appstream-qt
 arch-install-scripts
 archlinux-appstream-data
+ardour
 ark
 at-spi2-atk
 at-spi2-core
