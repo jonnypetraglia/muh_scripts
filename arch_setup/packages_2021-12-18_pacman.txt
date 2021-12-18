@@ -50,6 +50,7 @@ btrfs-progs
 budgie-desktop
 bwidget
 cairo
+caja
 cantarell-fonts
 cdparanoia
 cfitsio
@@ -58,6 +59,7 @@ cinnamon
 code-server
 colord
 convertlit
+cutefish-filemanager
 dav1d
 dbus-glib
 dconf
@@ -544,6 +546,7 @@ partitionmanager
 patch
 pavucontrol
 pcurses
+peony
 phonon-qt5
 phonon-qt5-vlc
 pipewire
