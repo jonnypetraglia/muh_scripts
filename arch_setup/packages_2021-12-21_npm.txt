@@ -1,6 +1,7 @@
 asar
 bunyan
 cli
+corepack
 dev-config
 eslint
 grunt
