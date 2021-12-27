@@ -6,19 +6,30 @@ source ./arch_env.sh
 
 # 1. Create **MBR** partition table
 ## TODO
+
 ## 2. Create partitions
 ## TODO
+
 # 3. Create filesystems
 mkfs.ext4 /dev/$MY_ROOT_PARTITION
 mkswap /dev/$MY_SWAP_PARTITION
 # mkfs.ext4 /dev/$MY_BOOT_PARTITION
+
 ## 3. Mount partition(s)
 mount /dev/$MY_ROOT_PARTITION /mnt
 swapon /dev/$MY_SWAP_PARTITION
 ## 4. Generate fstab
+
 genfstab -U /mnt > /mnt/etc/fstab
-## 5. chroot
+
+## 5. pacstrap
+reflector --latest 20 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
+pacstrap /mnt base linux linux-firmware
+cp /etc/pacman.d/mirrorlist /mnt/etc/pacman.d/mirrorlist
+
+## 6. chroot
 arch-chroot /mnt
+
 
 
 ## Run all the scripts!
