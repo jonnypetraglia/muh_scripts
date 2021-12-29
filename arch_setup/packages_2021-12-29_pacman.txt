@@ -51,6 +51,7 @@ budgie-desktop
 bwidget
 cairo
 caja
+calligra
 cantarell-fonts
 capnet-assist
 cdparanoia
@@ -251,7 +252,7 @@ ktexteditor
 ktextwidgets
 kunitconversion
 kuserfeedback
-kvantum-qt5
+kvantum
 kvantum-theme-materia
 kwallet
 kwallet-pam
