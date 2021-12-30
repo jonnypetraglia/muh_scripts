@@ -1,4 +1,5 @@
 asar
+atom-package-manager
 bunyan
 cli
 corepack

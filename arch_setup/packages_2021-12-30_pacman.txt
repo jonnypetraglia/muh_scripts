@@ -20,6 +20,7 @@ ark
 at-spi2-atk
 at-spi2-core
 atk
+atom
 attica
 audacity
 autoconf
@@ -64,7 +65,6 @@ code-server
 colord
 contractor
 convertlit
-cutefish-filemanager
 dav1d
 dbus-glib
 dconf
