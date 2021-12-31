@@ -161,6 +161,7 @@ hdparm
 hicolor-icon-theme
 hidapi
 hiri
+htop
 http-parser
 hunspell
 hyphen

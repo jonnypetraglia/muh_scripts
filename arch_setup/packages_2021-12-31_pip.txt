@@ -119,6 +119,7 @@ Send2Trash
 setproctitle
 setuptools
 six
+smbus
 snowballstemmer
 Sphinx
 sphinxcontrib-applehelp
