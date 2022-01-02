@@ -43,6 +43,7 @@ bluez-libs
 bluez-qt
 bolt
 boost-libs
+brave-bin
 breeze
 breeze-gtk
 breeze-icons
