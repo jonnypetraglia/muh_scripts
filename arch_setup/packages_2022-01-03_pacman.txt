@@ -17,6 +17,7 @@ arch-install-scripts
 archlinux-appstream-data
 ardour
 ark
+arqiver-git
 at-spi2-atk
 at-spi2-core
 atk
