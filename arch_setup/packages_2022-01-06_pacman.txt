@@ -679,6 +679,7 @@ syncthing
 syncthingtray-qt6
 syntax-highlighting
 sysfsutils
+system-monitoring-center
 systemsettings
 taglib
 talloc

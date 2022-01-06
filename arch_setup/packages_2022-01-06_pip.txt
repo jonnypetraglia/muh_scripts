@@ -90,6 +90,7 @@ Pygments
 PyGObject
 pyinotify
 PyNaCl
+PyOpenGL
 pyOpenSSL
 pyparsing
 PyQt3D
@@ -128,6 +129,7 @@ sphinxcontrib-htmlhelp
 sphinxcontrib-jsmath
 sphinxcontrib-qthelp
 sphinxcontrib-serializinghtml
+System-Monitoring-Center
 TBB
 team
 tinycss2
