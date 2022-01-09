@@ -62,6 +62,7 @@ cerbere
 cfitsio
 cifs-utils
 cinnamon
+clojure
 clutter
 code-server
 colord
@@ -437,6 +438,7 @@ linux-headers
 llvm-libs
 lm_sensors
 lmdb
+logseq-desktop-bin
 lsof
 lua52
 luajit
@@ -829,6 +831,7 @@ xorg-xwud
 xorgproto
 xvidcore
 xxhash
+yarn
 yay
 youtube-dl
 zeromq
