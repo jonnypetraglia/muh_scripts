@@ -111,6 +111,7 @@ fontconfig
 fortune-mod
 frameworkintegration
 freegish-git
+freetube-bin
 freetype2
 fribidi
 fuse-common
