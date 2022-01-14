@@ -51,6 +51,7 @@ breeze-icons
 brotli
 btrfs-progs
 budgie-desktop
+buho
 bwidget
 cairo
 caja
@@ -66,6 +67,7 @@ clojure
 clutter
 code-server
 colord
+communicator
 contractor
 convertlit
 dav1d
@@ -171,6 +173,7 @@ hunspell
 hyphen
 ijs
 imlib2
+index-fm
 ion-git
 iso-codes
 jack2
@@ -451,6 +454,15 @@ mailcap
 make
 man-db
 mattermost-desktop-bin
+maui-bonsai-git
+maui-booth-git
+maui-clip
+maui-nota
+maui-pix
+maui-shelf
+maui-shell-git
+maui-sol-git
+maui-station
 mbedtls
 md4c
 mdadm
@@ -690,6 +702,7 @@ tbb
 tcl
 tcllib
 tdb
+tealdeer
 teams
 teamviewer
 telegram-desktop
@@ -737,6 +750,7 @@ vlc
 vmaf
 volume_key
 vulkan-icd-loader
+vvave
 wayland
 wayland-protocols
 webcamoid
