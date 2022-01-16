@@ -129,7 +129,6 @@ sphinxcontrib-htmlhelp
 sphinxcontrib-jsmath
 sphinxcontrib-qthelp
 sphinxcontrib-serializinghtml
-System-Monitoring-Center
 TBB
 team
 tinycss2

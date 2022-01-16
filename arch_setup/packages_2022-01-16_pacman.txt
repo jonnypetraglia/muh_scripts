@@ -8,9 +8,11 @@ alsa-card-profiles
 alsa-lib
 alsa-topology-conf
 alsa-ucm-conf
+amp
 android-studio
 android-tools
 aom
+appmenu-gtk-module
 appstream
 appstream-qt
 arch-install-scripts
@@ -95,6 +97,7 @@ ebook-tools
 editorconfig-core-c
 elementary-icon-theme
 elementary-wallpapers
+etcher-bin
 exa
 exfatprogs
 exiv2
@@ -135,6 +138,7 @@ git
 git-cola
 gitahead-bin
 gitfiend
+gitui
 glib-networking
 glslang
 glu
@@ -481,6 +485,7 @@ mplayer
 mtdev
 mypaint-brushes1
 ndctl
+nemo-terminal
 netpbm
 networkmanager
 networkmanager-qt
@@ -499,6 +504,7 @@ nvidia
 nvidia-settings
 nvm
 nvme-cli
+nvs-git
 obs-studio
 obs-v4l2sink
 onedriver
@@ -563,6 +569,7 @@ plasma-thunderbolt
 plasma-vault
 plasma-workspace
 plasma-workspace-wallpapers
+please
 polkit
 polkit-kde-agent
 polkit-qt5
@@ -642,6 +649,7 @@ semver
 serd
 shaderc
 shared-mime-info
+shotcut
 signal-desktop
 signon-kwallet-extension
 signon-plugin-oauth2
@@ -694,7 +702,6 @@ syncthing
 syncthingtray-qt6
 syntax-highlighting
 sysfsutils
-system-monitoring-center
 systemsettings
 taglib
 talloc
@@ -855,3 +862,4 @@ zip
 zita-alsa-pcmi
 zita-resampler
 zoom
+zoxide
