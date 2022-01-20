@@ -3,3 +3,4 @@ sfdx-git-delta
 texei-sfdx-plugin
 shane-sfdx-plugins
 sfdx-dependency-plugin
+sfdx-isdot
