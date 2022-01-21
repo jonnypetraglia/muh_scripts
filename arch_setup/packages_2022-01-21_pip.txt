@@ -5,6 +5,7 @@ aiosignal
 alabaster
 apipkg
 appdirs
+asciidoc
 async-timeout
 attrs
 Babel

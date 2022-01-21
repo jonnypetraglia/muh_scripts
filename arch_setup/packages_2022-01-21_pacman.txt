@@ -581,6 +581,7 @@ portsmf
 postman-bin
 powerdevil
 powerline-fonts
+powershell-bin
 ppp
 prison
 procs
