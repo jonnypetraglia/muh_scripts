@@ -13,7 +13,7 @@ It should also (eventually) facilitate in bringing over my [dotfiles and some sy
 
 `arch_setup.sh` should **NOT** be run right now; it's kinda a reference right now. Partitioning and filesystem creation should be done manually for the moment (and possibly for all time).
 
-Intended to also install pacman, npm, gem, fisher, and sfdx plugin packages that were installed in a prior installation. (The export script uses fish functions.)
+Intended to also install pacman, npm, gem, fisher, sfdx, and vs code extensions/plugins/packages that were installed in a prior installation. (The export script uses fish functions.)
 
 ## Export Installed Packages
 
@@ -24,6 +24,7 @@ Creates files of packages for various package managers that are intended to be a
   - Gem (Ruby packages)
   - fish (fisher packages)
   - sfdx plugins
+  - VS Code extensions
 
 ## Extract Audio
 

@@ -4,6 +4,9 @@ systemctl enable bluetooth.service
 systemctl enable reflector.service
 
 
+## TODO Enable Syncthing.service from muh_dotfiles
+
+
 ## TODO: echo to /etc/pulse/system.pa
 #.ifexists module-bluetooth-policy.so
 #load-module module-bluetooth-policy
